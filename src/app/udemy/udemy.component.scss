@@ -1,0 +1,41 @@
+body{
+ /*    background-color: #fff; */
+    overflow: auto ;
+}
+/* #coursedetails{
+    background-color: #fff;
+    mat-tab {
+        background-color: blue;
+        border-bottom: 1px solid #007791;
+        .navbar-light .navbar-nav .nav-link.active{
+         border-bottom: 5px solid #007791;
+        } 
+         .fa-search{
+             color: #007791;
+         }
+         .active{
+            border-bottom: 5px solid #007791;
+         }
+       .navbar-nav a{
+           cursor: pointer;
+             &:hover{
+                 border-bottom: 5px solid #007791;
+             }
+         }              
+     }
+     mat-tab-group{
+         background-color: #FFFFFF;
+     }
+     .example-stretched-tabs {
+        max-width: 800px;
+      }
+     table{
+         height: 300px;
+     }
+     .card-header i{
+        cursor: pointer;
+    }
+    } */
+    mat-tab-group{
+        z-index: 999;
+    }

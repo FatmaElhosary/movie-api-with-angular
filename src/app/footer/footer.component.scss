@@ -1,0 +1,31 @@
+footer {
+  margin-bottom: 0px;
+  border-bottom: 5px solid #ec5252;
+
+  .teach {
+    background-color: #f7f8fa;
+    .media {
+      h5 {
+        color: rgb(41, 48, 59);
+        font-weight: 700;
+      }
+    }
+    a{
+       color: #1884C2;
+        border: 2px solid #1884C2;
+    }
+  }
+  .language{
+      p{
+          font-size: 14px;
+      }
+      a{
+        cursor: pointer;
+          text-decoration: none;
+          font-size: 13px;
+          color:rgb(0, 56, 69);
+          font-weight: 400;
+          margin-left: 10px;
+      }
+  }
+}
